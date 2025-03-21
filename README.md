@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently building my project portfolio to show my skills and expertise in Business intelligence, Data analytics & analysis, and AI automation.
+I'm currently building my project portfolio to show my skills and expertise in Business intelligence, Data analytics & analysis,Cloud Computing and AI automation.
 
 
 ## 🌐 Socials:
